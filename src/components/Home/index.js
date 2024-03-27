@@ -27,9 +27,9 @@ const Home = () => {
                 <span className={`${letterClass} _12`}>i,</span>
                 <br />
                 {/* <img src={LogoTitle} alt="developer" /> */}
-                <AnimatedLetters letterClass={letterClass} strArray={nameArray} idx={13} />
+                <AnimatedLetters letterClass={letterClass} strArray={nameArray} idx={12} />
                 <br />
-                <AnimatedLetters letterClass={letterClass} strArray={jobArray} idx={18} />
+                <AnimatedLetters letterClass={letterClass} strArray={jobArray} idx={12} />
                 </h1>
                 <h2>Frontend Developer / Computer Scince Student / Backend Developer</h2>
                 <a href={Resume} target = "_blank" className="flat-button" rel="noreferrer">RESUME</a>
