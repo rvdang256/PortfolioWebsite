@@ -1,5 +1,6 @@
-import { Link } from 'react-router-dom';
+
 import LogoTitle from '../../assets/images/logo-s.png';
+import Resume from '../../assets/resume.pdf';
 import { useState, useEffect } from 'react';
 import './index.scss';
 import AnimatedLetters from '../AnimatedLetters';
@@ -34,7 +35,8 @@ const Home = () => {
                 <AnimatedLetters letterClass={letterClass} strArray={jobArray} idx={18} />
                 </h1>
                 <h2>Frontend Developer / Computer Scince Student / Backend Developer</h2>
-                <Link to="/assets/resume.pdf" className="flat-button">RESUME</Link>
+                <a href={Resume} target = "_blank" className="flat-button" rel="noreferrer">RESUME</a>
+
 
 
             </div>
