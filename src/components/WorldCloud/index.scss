@@ -24,8 +24,17 @@
         margin: auto;
         width: 100%;
 
-    
+        .tagcloud--item{
+            color: aquamarine;
+            
+
+            &:hover{
+                color: #ffd700;
+            }
+        }
+
     }
+    
 
    
 

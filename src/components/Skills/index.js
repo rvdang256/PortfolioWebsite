@@ -27,13 +27,15 @@ const Skills = () => {
             />
           </h1>
           <p>
-            I'm a very ambitious computer science student looking for a role in an
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+            I am experinced with a wide range of programming languages and tech stacks inlduing but 
+            not limited to Python, React, CSS, HTML, Java, R, C, JavaScript, SQL, Git, TensorFlow.
           </p>
           <p align="LEFT">
-            I'm quiet, confident, naturally curious, and perpetually working on
-            improving my skills one problem at a time.
+            
+          I have worked as an IT intern at the Applied Research Laboratory at Penn State where I was responsible for managing
+          the IT infrastructure and providing technical support to the research staff. This includes handling maintence of the
+          the different Atlassain tools, creating new macros JIRA and Confluence, and updating the knowledge base.
+          
           </p>
           <p>
             If I need to define myself in one sentence that would be a family
