@@ -45,6 +45,7 @@ const Skills = () => {
         
 
         <WordCloud/>
+        
       </div>
       
       <Loader type="pacman" color/>

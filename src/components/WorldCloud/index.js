@@ -3,36 +3,39 @@ import TagCloud from 'TagCloud';
 import './index.scss';
 
 
-const container = '.content';
-const texts = [
-  'Python', 'React', 'CSS', 'HTML',
-  'Java', 'R', 'C', 'JavaScript',
-  'SQL', 'Git', 'TensorFlow',
-  'FireBase', 'Solidity',
-];
-const options = {
-  radius: 300,
-  // animation speed
-  // slow, normal, fast
-  maxSpeed: 'fast',
-  initSpeed: 'fast',
-  // 0 = top
-  // 90 = left
-  // 135 = right-bottom
-  direction: 135,
-  // interact with cursor move on mouse out
-  keep: true
-};
 
 const WordCloud = () => {
+
+  const container = '.content';
+  const texts = [
+    'Python', 'React', 'CSS', 'HTML',
+    'Java', 'R', 'C', 'JavaScript',
+    'SQL', 'Git', 'TensorFlow',
+    'FireBase', 'Solidity',
+  ];
+  const options = {
+    radius: 300,
+    // animation speed
+    // slow, normal, fast
+    maxSpeed: 'fast',
+    initSpeed: 'fast',
+    // 0 = top
+    // 90 = left
+    // 135 = right-bottom
+    direction: 135,
+    // interact with cursor move on mouse out
+    keep: true
+  };
+
   // to render wordcloud each time the page is reloaded
   useEffect(() => {
     TagCloud(container, texts, options);
-  })
+    console.log('WordCloud rendered');
+  }, []);
 
+  
   return (
-    <div className='text-sphere'>
-      
+    <div className='text-sphere'>    
       <span className="content"></span>
     </div>
   )
