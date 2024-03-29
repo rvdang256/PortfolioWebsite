@@ -99,6 +99,14 @@
             min-width: fit-content;
             animation: pulse 1.5s;
 
+            a{
+                color: #ffd700;
+
+                &:hover{
+                    color: #fff;
+                }
+            }
+
             &:nth-of-type(1){
                 animation-delay: 2.6s;
             }

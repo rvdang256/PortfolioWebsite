@@ -38,7 +38,9 @@ const Skills = () => {
           
           </p>
           <p>
-            TBD
+            I have created many side projects in my free time to learn new technologies and to improve my skills. Some of these projects
+            are a Parts of Speech Tagger, an Article of Clothing Classifier, and a Calorie Tracker website. To see more of my projects, please
+            visit my <a href='https://github.com/rvdang256' target='_blank' rel='noreferrer'>GitHub</a> page.
           </p>
         </div>
 
