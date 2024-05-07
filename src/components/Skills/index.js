@@ -40,8 +40,8 @@ const Skills = () => {
           <p>
             I have created many side projects in my free time to learn new technologies and to improve my skills. Some of these projects
             are a <a href='https://rhythmic-rights.vercel.app/' target='_blank' rel='noreferrer'>Audio Minting NFT</a> website, an 
-            <a href='https://github.com/rvdang256/Article-Of-Clothing-Classifier' target='_blank' rel='noreferrer'>Article of Clothing Classifier</a> , 
-            and a <a href='https://fitnessjourney-3h4rcrtye-ryan-dangs-projects.vercel.app/' target='_blank' rel='noreferrer'>Calorie Tracker</a>website. To see more of my projects, please
+             <a href='https://github.com/rvdang256/Article-Of-Clothing-Classifier' target='_blank' rel='noreferrer'>Article of Clothing Classifier</a> , 
+            and a <a href='https://fitnessjourney-3h4rcrtye-ryan-dangs-projects.vercel.app/' target='_blank' rel='noreferrer'>Calorie Tracker</a> website. To see more of my projects, please
             visit my <a href='https://github.com/rvdang256' target='_blank' rel='noreferrer'>GitHub</a> page.
           </p>
         </div>
