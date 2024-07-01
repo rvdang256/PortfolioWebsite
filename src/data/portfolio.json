@@ -1,34 +1,28 @@
 {
     "portfolio": [
         {
-            "image": "/portfolio/1/one.jpeg",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "image": "/portfolio/1/weather.png",
+            "title": "Weather App",
+            "description": "Tracks Weather-Forecast for any City",
+            "url": "https://rvdang256.github.io/Weather-Forecast-React/"
         },
         {
-            "image": "/portfolio/1/one.jpeg",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "image": "/portfolio/1/download.png",
+            "title": "Clothing Classifier",
+            "description": "Using Deep Learning to Classify Clothing",
+            "url": "https://github.com/rvdang256/Article-Of-Clothing-Classifier"
         },
         {
-            "image": "/portfolio/1/one.jpeg",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "image": "/portfolio/1/nft.png",
+            "title": "Rhythmic Rights",
+            "description": "Minting NFTs Based on Auido Files ",
+            "url": "https://rhythmic-rights.vercel.app/"
         },
         {
-            "image": "/portfolio/1/one.jpeg",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "image": "/portfolio/1/one.jpeg",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "image": "/portfolio/1/calorie.jpeg",
+            "title": "Fitness Journey",
+            "description": "Calorie Tracker + Excercise Planner",
+            "url": "https://cmpsc-263-project-1.vercel.app/"
         }
     ]
 }
