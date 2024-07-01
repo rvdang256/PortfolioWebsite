@@ -48,8 +48,8 @@ const Skills = () => {
 
       
         
-
-        <WordCloud/>
+        <div className="stage-cube-cont"><WordCloud/></div>
+        
         
       </div>
       
