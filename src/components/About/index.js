@@ -33,8 +33,8 @@ const About = () => {
             />
           </h1>
           <p>
-            I'm a very ambitious computer science student looking for a role in an
-            established IT company with the opportunity to work with the latest
+            I'm a very ambitious computer science graduate looking for a role in software
+            development or data science with the opportunity to work with the latest
             technologies on challenging and diverse projects.
           </p>
           <p align="LEFT">
@@ -42,7 +42,7 @@ const About = () => {
             improving my skills one problem at a time.
           </p>
           <p>
-            If I need to define myself in one sentence that would be a family
+            If I need to define myself in a couple of words, that would be a family
             person, a soccer fanatic, fitness enthusiast, and tech-obsessed!
           </p>
         </div>
