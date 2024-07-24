@@ -31,7 +31,7 @@ const Home = () => {
                 <br />
                 <AnimatedLetters letterClass={letterClass} strArray={jobArray} idx={12} />
                 </h1>
-                <h2>Penn State Graudate / Backend Developer / Machine Learning Engineer</h2>
+                <h2>Penn State Graduate / Backend Developer / Machine Learning Engineer</h2>
                 <a href={Resume} target = "_blank" className="flat-button" rel="noreferrer">RESUME</a>
 
 
